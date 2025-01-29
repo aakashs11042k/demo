@@ -1,8 +1,6 @@
 git test
-<<<<<<< HEAD
 from windows
 dev branch
 qa added
-=======
->>>>>>> parent of d9df565 (test2)
+
 
